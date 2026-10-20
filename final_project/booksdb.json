@@ -1,0 +1,63 @@
+{
+  "1": {
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "reviews": {},
+    "isbn": "978-0-385-47454-2"
+  },
+  "2": {
+    "author": "Hans Christian Andersen",
+    "title": "Fairy tales",
+    "reviews": {},
+    "isbn": "978-0-06-085063-9"
+  },
+  "3": {
+    "author": "Dante Alighieri",
+    "title": "The Divine Comedy",
+    "reviews": {},
+    "isbn": "978-0-14-044947-3"
+  },
+  "4": {
+    "author": "Unknown",
+    "title": "The Epic of Gilgamesh",
+    "reviews": {},
+    "isbn": "978-0-14-044919-0"
+  },
+  "5": {
+    "author": "Unknown",
+    "title": "The Book of Job",
+    "reviews": {},
+    "isbn": "978-0-19-960769-9"
+  },
+  "6": {
+    "author": "Unknown",
+    "title": "One Thousand and One Nights",
+    "reviews": {},
+    "isbn": "978-0-14-044561-1"
+  },
+  "7": {
+    "author": "Unknown",
+    "title": "Natsume Soseki",
+    "reviews": {},
+    "isbn": "978-0-14-118215-0"
+  },
+  "8": {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Faust",
+    "reviews": {},
+    "isbn": "978-0-14-044921-3"
+  },
+  "9": {
+    "author": "Banabhatta",
+    "title": "Harsha Charitra",
+    "reviews": {},
+    "isbn": "978-81-87879-43-4"
+  },
+  "10": {
+    "author": "Pierre Choderlos de Laclos",
+    "title": "Les Liaisons dangereuses",
+    "reviews": {},
+    "isbn": "978-0-14-044935-0"
+  }
+}
+
